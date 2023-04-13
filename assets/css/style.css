@@ -1018,10 +1018,10 @@ ul {
 }
 
 .info-tab-area {
-  top: 44%;
+/*   top: 44%; */
   position: absolute;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+/*   -webkit-transform: translateY(-50%);
+          transform: translateY(-50%); */
   margin: auto;
   width: 100%;
   height: auto;
